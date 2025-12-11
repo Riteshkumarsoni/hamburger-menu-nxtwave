@@ -1,0 +1,17 @@
+.not-found-img {
+  width: 200px;
+}
+
+.not-found-heading {
+  color: #616e7c;
+  font-family: Roboto;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.not-found-paragraph {
+  color: #616e7c;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 400;
+}

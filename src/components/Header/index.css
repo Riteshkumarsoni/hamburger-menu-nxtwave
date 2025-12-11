@@ -1,0 +1,44 @@
+.Header-bg-container {
+  background-color: #ffffff;
+  height: 20vh;
+  padding: 25px;
+}
+
+.header-sub-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.menu-icon {
+  border-width: 0px;
+  font-size: 18px;
+}
+
+.icon-heading-section {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+}
+
+.website-logo {
+  width: 60px;
+}
+
+.close-button {
+  text-align: right;
+}
+
+.menu-items-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+}
+
+.menu-heading {
+  color: #616e7c;
+  font-family: Roboto;
+  font-size: 25px;
+  font-weight: 600;
+}
